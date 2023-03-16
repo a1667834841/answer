@@ -37,3 +37,10 @@ See [CONTRIBUTING](https://answer.dev/docs/development/contributing/) for ways t
 ## License
 
 [Apache License 2.0](https://github.com/answerdev/answer/blob/main/LICENSE)
+
+
+Quick start
+
+make ui
+go run .\cmd\answer\ init
+go run .\cmd\answer\ run

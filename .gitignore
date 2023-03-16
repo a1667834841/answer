@@ -28,3 +28,4 @@ vendor/
 /answer
 
 dist/
+.history
